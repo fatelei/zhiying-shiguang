@@ -64,7 +64,7 @@ For portraits and family photos, score both identity preservation and visible fa
 Build the final image like a quiet physical zine plate:
 
 - Use a warm off-white paper base with visible grain, fiber, scan noise, or uneven ink absorption.
-- Leave a large, calm field of paper around the image; avoid filling the whole canvas with decoration.
+- Leave a calm field of paper around the image, but keep the subject visually dominant. For landscapes, city scenes, architecture, and non-portrait documentary photos, the image field should usually occupy about 70-80% of the page; avoid making the artwork look like a small pasted image on a huge blank sheet.
 - Use torn-paper edges mainly where the image dissolves into the paper, especially along one or two sides. Do not build a busy frame.
 - Convert background density into soft blue-gray, pale cyan, muted teal, warm beige, and faded ink. Use high-purity color only as a tiny accent if the source photo needs it.
 - Keep the subject anchor sharp enough to read; let secondary areas soften into watercolor wash, pencil hatching, halftone, or risograph texture.
@@ -83,6 +83,7 @@ Create a restrained "纸影拾光" paper artwork from the provided photo.
 Scene reading: [subject anchor], [spatial rhythm], [light/weather], [color memory], [mood].
 Path: [real-scene collage OR image distillation].
 Composition: warm off-white paper base, generous white space, restrained torn paper edges where the image dissolves into paper, minimal accents only.
+For landscapes/city/architecture: keep the image field around 70-80% of the page with moderate margins; avoid excessive blank paper or a tiny central pasted-image effect.
 Style: restrained hand-drawn editorial zine plate, pale watercolor wash, pencil contour, dry brush, subtle blue-gray risograph/halftone grain, imperfect ink registration.
 Preserve/emphasize: [important subject, gesture, place, or atmosphere].
 If people are present: preserve identity, face proportions, expression, gaze, age impression, hairstyle, pose, hands, and meaningful action.
@@ -109,6 +110,7 @@ Before finalizing, verify:
 
 - The final piece clearly feels like paper, not a flat digital filter.
 - Torn edges and white space are compositionally meaningful, not random decoration.
+- The subject has enough visual weight. For landscapes, city scenes, and architecture, avoid excessive outer blank paper; the image should usually occupy about 70-80% of the page.
 - The source photo's subject or mood is still traceable.
 - If people are present, identity, expression, gaze, age impression, hands, and pose are preserved well enough to recognize the source.
 - If people are present, the face surface has visible dry paper/print treatment without changing facial geometry or adding a cloudy coating.
