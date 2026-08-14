@@ -1,0 +1,7 @@
+interface:
+  display_name: "纸影拾光"
+  short_description: "照片转克制纸本影像与手绘刊物作品"
+  default_prompt: "Use $zhiying-shiguang to turn this photo into a restrained paper-zine artwork with pale print texture, torn edges, and generous white space."
+
+policy:
+  allow_implicit_invocation: true
