@@ -21,6 +21,12 @@ The skill is designed for editorial, handmade, fine-art zine results rather than
 - Everyday moments with a clear emotional anchor
 - Photography that should become a printed, handmade zine plate
 
+## Example
+
+| Original photo | Zhiying Shiguang result |
+| --- | --- |
+| <img src="./assets/sunset-city-before.png" alt="Original sunset city photo" width="420"> | <img src="./assets/sunset-city-after.png" alt="Sunset city transformed into a restrained paper-zine artwork" width="420"> |
+
 ## Install
 
 Place this folder in your Codex skills directory, or keep it anywhere you can reference explicitly:
@@ -69,10 +75,12 @@ The skill asks Codex to:
 
 ```text
 .
+├── assets/
+│   ├── sunset-city-before.png
+│   └── sunset-city-after.png
 ├── SKILL.md
 └── agents/
     └── openai.yaml
 ```
 
 `SKILL.md` contains the working instructions Codex reads when the skill is invoked. `agents/openai.yaml` provides UI metadata such as the display name and default prompt.
-
